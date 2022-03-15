@@ -3,7 +3,9 @@ I trained the yolov5 model using my own labelled data, and developed the complet
 
 My goal is not sharing hacks, so no labelled data or trained models will be shared here. And I don't use this in multi-player games. 
 
-( This is the initial version I developed last year. There will be more updates, and cleaning in the future when I have time. ) 
+( This is the initial version I developed last year. And since this is only motivated by my personal interest, so everything was done in rush.
+
+The code could be cleaned and redesigned in the future when I have time. ) 
 
 ---
 The bounding boxes are draw on the image. Green means teammates, and red means enemies. 
