@@ -15,7 +15,7 @@ Enemy heads and bodys are being detected seperately, then grouped into people.
 When a head is detected, the program will aim onto the head; otherwise, it will aim onto enemy body.
 
 <a id="bot" href="https://github.com/hanmmmmm/yolov5-based-CSGO-Bot/blob/main/gifs/csgo_bot_2.gif">
-    <img src="https://github.com/hanmmmmm/yolov5-based-CSGO-Bot/blob/main/gifs/csgo_bot_2.gif" alt="bot gif" title="bot" width="950"/>
+    <img src="https://github.com/hanmmmmm/yolov5-based-CSGO-Bot/blob/main/gifs/csgo_bot_2.gif" alt="bot gif" title="bot" width="750"/>
 </a>
 
 
